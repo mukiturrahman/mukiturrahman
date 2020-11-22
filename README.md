@@ -27,6 +27,7 @@
 [<img align="left" alt="mukiturRahman | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/Dead__Haxor)
 [<img align="left" alt="mukiturRahman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mukitur-rahman-ashik-271828144/)
 [<img align="left" alt="mukiturRahman | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/dead_haxor/)
+[<img align="left" alt="Discord | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />](https://discord.gg/47zG5R7)
 
 </p>
 <br>
