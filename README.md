@@ -1,7 +1,9 @@
 <p align="center">
 <img src="/resources/giphy (1).gif">
 </p>
-<h3 align="center">Hi there, I'm [Mukitur Rahman Ashik](https://github.com/mukiturrahman) - aka ༺zGoD༻ 👋 </h3>
+
+### Hi there, I'm [Mukitur Rahman Ashik](https://github.com/mukiturrahman) - aka ༺zGoD༻ 👋
+
 <p align="center">
 <bold>“Time’s a thief of memory”</bold>
 
