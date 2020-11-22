@@ -1,48 +1,27 @@
-<p align="center">
-<img src="/resources/giphy (1).gif">
+<h1 align="center">Hi 👋, I'm Mukitur Rahaman Ashik aka ༺zGoD༻</h1>
+<h3 align="center">A Passionate self-taught Front-End Web Developer from Bangaladesh</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mukiturrahman&label=Profile%20views&color=0e75b6&style=flat" alt="mukiturrahman" /> </p>
+
+- 🔭 I’m currently working on [Personal Portfolio Site](#)
+
+- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap**
+
+- 📫 How to reach me **mukiturrahman0077@gmail.com**
+
+- ⚡ Fun fact **Anime over CODE**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/mukiturrahman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mukiturrahman" height="30" width="40" /></a>
+<a href="https://twitter.com/dead__haxor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="dead__haxor" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mukitur-rahman-ashik-271828144/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mukitur-rahman-ashik-271828144/" height="30" width="40" /></a>
+<a href="https://fb.com/dead.haxxor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="dead.haxxor" height="30" width="40" /></a>
+<a href="https://instagram.com/dead_haxor/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dead_haxor/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c//channel/ucs5bn6jwu7lhgi7fcvfbl4a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="/channel/ucs5bn6jwu7lhgi7fcvfbl4a" height="30" width="40" /></a>
 </p>
 
-### Hi there, I'm [Mukitur Rahman Ashik](https://github.com/mukiturrahman) - aka ༺zGoD༻ 👋
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
-**A Passionate self-taught Front-End Web Developer from Bangaladesh**
-
-- 🔥 I'm 18 Year's Old FrontEnd Web Developer Based in Bangladesh and Learning New Things Everyday. <br>
-- 🌱 I’m currently learning everything 🤣 <br>
-- 👾 I Love Playing Gaming 🎮 <br>
-- 😄 I'm so much passionate about what I do ♥. <br>
-- ⚡ Fun fact: I love to watch Anime / Hentai😄 <br>
-- ⚡ My Favourites: HTML, CSS, JavaScript, Bootstrap, NodeJS... <br>
-
-<p align="center">
-
----
-
-### Connect with me:
-
-[<img align="left" alt="gamingSpice.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.gamingspice.com/)
-[<img align="left" alt="mukiturRahman | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCS5bn6jWu7LHGi7fcVFbl4A?view_as=subscriber)
-[<img align="left" alt="mukiturRahman | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/Dead__Haxor)
-[<img align="left" alt="mukiturRahman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mukitur-rahman-ashik-271828144/)
-[<img align="left" alt="mukiturRahman | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/dead_haxor/)
-[<img align="left" alt="Discord | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />](https://discord.gg/47zG5R7)
-
-</p>
-<br>
-
----
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="center" alt="MukiturRahman's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mukiturrahman&show_icons=true&theme=blue-green" />
-
-</details>
-
----
-
-#### Favourite Quote
-
-> “You don’t have to know all the answers, you just need to
-> know where to find them.”
->
-> — Albert Einstein
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mukiturrahman&show_icons=true&locale=en" alt="mukiturrahman" /></p>
