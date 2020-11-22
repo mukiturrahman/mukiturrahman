@@ -2,7 +2,7 @@
 <img src="/resources/giphy (1).gif">
 </p>
 
-### Hi there, I'm [Mukitur Rahman Ashik][https://github.com/mukiturrahman] - aka ༺zGoD༻ 👋
+### Hi there, I'm [Mukitur Rahman Ashik](https://github.com/mukiturrahman) - aka ༺zGoD༻ 👋
 
 <p align="center">
 <bold>“Time’s a thief of memory”</bold>
