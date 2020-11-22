@@ -1,0 +1,43 @@
+<p align="center">
+<img src="/resources/giphy (1).gif">
+</p>
+<h3 align="center">Hi there, I'm [Mukitur Rahman Ashik](https://github.com/mukiturrahman) - aka ༺zGoD༻ 👋 </h3>
+<p align="center">
+<bold>“Time’s a thief of memory”</bold>
+
+- 🔥 I'm 18 Year's Old FrontEnd Web Developer Based in Bangladesh and Learning New Things Everyday. <br>
+- 🌱 I’m currently learning everything 🤣 <br>
+- 👾 I Love Playing Gaming 🎮 <br>
+- 😄 I'm so much passionate about what I do ♥. <br>
+- ⚡ Fun fact: I love to watch Anime / Hentai😄 <br>
+- ⚡ My Favourites: HTML, CSS, JavaScript, Bootstrap, NodeJS... <br>
+
+</p>
+
+<p align="center">
+
+### Connect with me:
+
+[<img align="left" alt="gamingSpice.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.gamingspice.com/)
+[<img align="left" alt="mukiturRahman | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCS5bn6jWu7LHGi7fcVFbl4A?view_as=subscriber)
+[<img align="left" alt="mukiturRahman | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/Dead__Haxor)
+[<img align="left" alt="mukiturRahman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mukitur-rahman-ashik-271828144/)
+[<img align="left" alt="mukiturRahman | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/dead_haxor/)
+
+</p>
+<br />
+<br />
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="center" alt="MukiturRahman's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mukiturrahman&show_icons=true&hide_border=true&theme=blue-green" />
+
+</details>
+
+#### Favourite Quote
+
+> “You don’t have to know all the answers, you just need to
+> know where to find them.”
+>
+> — Albert Einstein
