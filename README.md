@@ -5,7 +5,7 @@
 ### Hi there, I'm [Mukitur Rahman Ashik](https://github.com/mukiturrahman) - aka ༺zGoD༻ 👋
 
 <p align="center">
-<bold>“Time’s a thief of memory”</bold>
+<bold>A Passionate self-taught Front-End Web Developer from Bangaladesh</bold>
 
 - 🔥 I'm 18 Year's Old FrontEnd Web Developer Based in Bangladesh and Learning New Things Everyday. <br>
 - 🌱 I’m currently learning everything 🤣 <br>
