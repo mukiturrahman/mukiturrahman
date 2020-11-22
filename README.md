@@ -18,6 +18,8 @@
 
 <p align="center">
 
+---
+
 ### Connect with me:
 
 [<img align="left" alt="gamingSpice.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.gamingspice.com/)
@@ -27,8 +29,8 @@
 [<img align="left" alt="mukiturRahman | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/dead_haxor/)
 
 </p>
-<br />
-<br />
+
+---
 
 <details>
   <summary>:zap: GitHub Stats</summary>
@@ -36,6 +38,8 @@
   <img align="center" alt="MukiturRahman's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mukiturrahman&show_icons=true&theme=blue-green" />
 
 </details>
+
+---
 
 #### Favourite Quote
 
