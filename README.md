@@ -4,7 +4,6 @@
 
 ### Hi there, I'm [Mukitur Rahman Ashik](https://github.com/mukiturrahman) - aka ༺zGoD༻ 👋
 
-<p align="center">
 <bold>A Passionate self-taught Front-End Web Developer from Bangaladesh</bold>
 
 - 🔥 I'm 18 Year's Old FrontEnd Web Developer Based in Bangladesh and Learning New Things Everyday. <br>
@@ -13,8 +12,6 @@
 - 😄 I'm so much passionate about what I do ♥. <br>
 - ⚡ Fun fact: I love to watch Anime / Hentai😄 <br>
 - ⚡ My Favourites: HTML, CSS, JavaScript, Bootstrap, NodeJS... <br>
-
-</p>
 
 <p align="center">
 
