@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mukitur Rahaman Ashik aka ༺zGoD༻</h1>
-<h3 align="center">A Passionate self-taught Front-End Web Developer from Bangaladesh</h3>
+<h3 align="center">A Passionate self-taught Developer from Bangaladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mukiturrahman&label=Profile%20views&color=0e75b6&style=flat" alt="mukiturrahman" /> </p>
 
