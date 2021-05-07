@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mukitur Rahaman Ashik aka ༺zGoD༻</h1>
-<h3 align="center">A Passionate self-taught Developer from Bangaladesh</h3>
+<h4 align="center">I'm a Web Developer who loves making high-quality websites and applications. I'm still a student and preparing for college. I also love Anime, and I want to learn more about how the Universe works.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mukiturrahman&label=Profile%20views&color=0e75b6&style=flat" alt="mukiturrahman" /> </p>
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, SASS**
+### 📫 How to reach me:
 
-- 📫 How to reach me **mukiturrahman1012@gmail.com**
-
-- ⚡ Fun fact - **Anime over CODE**
+- Facebook: [Mukitur Rahman Ashik](https://www.facebook.com/Dead.Haxxor/)
+- Email: [mukiturrahman1012@gmail.com](mailto:mukiturrahman1012@gmail.com)
 
 ---
 
@@ -18,9 +17,6 @@
 <a href="https://linkedin.com/in/mukitur-rahman-ashik-271828144/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mukitur-rahman-ashik-271828144/" height="30" width="40" /></a>
 <a href="https://fb.com/dead.haxxor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="dead.haxxor" height="30" width="40" /></a>
 <a href=https://www.instagram.com/iiurusaii/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dead_haxor/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c//channel/ucs5bn6jwu7lhgi7fcvfbl4a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="/channel/ucs5bn6jwu7lhgi7fcvfbl4a" height="30" width="40" /></a>
 </p>
 
 ---
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mukiturrahman&show_icons=true&locale=en&theme=blue-green" alt="mukiturrahman" /></p>
