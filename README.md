@@ -7,7 +7,7 @@
 
 - Facebook: [Mukitur Rahman Ashik](https://www.facebook.com/Dead.Haxxor/)
 - Email: [mukiturrahman1012@gmail.com](mailto:mukiturrahman1012@gmail.com)
-- Website: [ukiturrahman.netlify.app](https://mukiturrahman.netlify.app/)
+- Website: [mukiturrahman.netlify.app](https://mukiturrahman.netlify.app/)
 
 ---
 
