@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mukitur Rahaman Ashik aka ༺zGoD༻</h1>
-<h4 align="center">I'm a Web Developer who loves making high-quality websites and applications. I'm still a student and preparing for college. I also love Anime, and I want to learn more about how the Universe works.</h4>
+<h4 align="center">I'm a frontend developer,passionate about creating and developing web interfaces, I have many years of experience in this area of work, with multiple quality projects.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mukiturrahman&label=Profile%20views&color=0e75b6&style=flat" alt="mukiturrahman" /> </p>
 
