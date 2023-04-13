@@ -17,7 +17,7 @@
 <a href="https://twitter.com/dead__haxor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="dead__haxor" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mukitur-rahman-ashik-271828144/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mukitur-rahman-ashik-271828144/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/mukitur.rahman007/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Mukitur Rahman Facebook" height="30" width="40" /></a>
-<a href=https://www.instagram.com/mukitur.rahman_/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Mukitur Rahman Intagram" height="30" width="40" /></a>
+<a href=https://www.instagram.com/mukitur.rahman_" target="_blank"><img align="center" alt='Mukitur Rahman Instagram' src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="30" width="40" /></a>
 </p>
 
 ---
